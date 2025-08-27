@@ -1,6 +1,5 @@
 {
   "orders": [
-    {"nick": "hdhdhdbdbfhd", "petName": "Moon Cat", "done": false},
-    {"nick": "Player2", "petName": "Dragon", "done": true}
+    {"nick": "hdhdhdbdbfhd", "petName": "Moon Cat", "done": true},
   ]
 }
