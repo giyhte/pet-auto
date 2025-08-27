@@ -1,10 +1,6 @@
 {
   "orders": [
-    {
-      "id": 12345,
-      "nick": "hdhdhdbdbfhd",
-      "petName": "Moon Cat",
-      "done": false
-    }
+    {"nick": "hdhdhdbdbfhd", "petName": "Moon Cat", "done": false},
+    {"nick": "Player2", "petName": "Dragon", "done": true}
   ]
 }
